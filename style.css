@@ -1,11 +1,37 @@
-.div1{
-    border: 10px solid purple ; padding: 40px;  border-radius: 10px;
-    margin:40px; border-radius: 10px;
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
 }
-.div2{
-    border: 10px solid purple; margin:40px; padding: 10px; border-radius: 10px;
+h1 {
+    font-size: 50px;
 }
-.div3{
-    border: 10px solid purple;padding: 40px; border-radius: 10px;
-    margin: 40px; border-radius: 10px;
-} 
+.name-highlight{
+    color: orange;
+}
+img {
+    float: right;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.first-image{
+    width: 100%;
+}
+section{
+    height: 500px;
+}
+.link-button{
+     text-decoration: none;
+     background-image: linear-gradient(45deg, lightsalmon, tomato);
+     padding: 10px 20px;
+     border-radius: 5px;
+     color: white;
+     font-weight: 700;
+}
+.top-banner{
+    background-image: url("top-banner.png");
+    background-repeat: no-repeat;
+}
