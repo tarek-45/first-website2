@@ -39,3 +39,11 @@ section{
 .image2{
     width: 100%;
 }
+.bottom-banner{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+#half-width{
+    border: 1px solid red;
+}
